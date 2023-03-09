@@ -3,7 +3,8 @@ package tom
 import (
 	"fmt"
 	"net/http"
-	"tom/model"
+
+	"github.com/xltank/tom/model"
 )
 
 func New() *Tom {
